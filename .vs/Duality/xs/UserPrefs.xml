@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{32B1FD77-49CD-C40F-76BD-CE1A43C42460}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/SceneController.cs">
+    <Files>
+      <File FileName="Assets/Script/SceneController.cs" Line="54" Column="15" />
+      <File FileName="Assets/Script/bianTrigger.cs" Line="11" Column="87" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1f36ca50-88c2-4c4a-af87-12354c127f17" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
